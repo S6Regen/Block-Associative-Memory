@@ -5,4 +5,4 @@ This allows large and fast associative memory. The issue is being revisited beca
 
 I allowed the hash based indexing procedure to act as a nonlinearity for the associative memory algorithm. For better numerical surety you may wish to directly include a nonlinearity such as f(x)=1 x>=0, f(x)=-1 x<0.
 
-Code is FreeBasic 1.07.1, cos' that's how it is.
+Code is FreeBasic 1.07.1 (Linux AMD64), cos' that's how it is.
